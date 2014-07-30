@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="easygame.framework.display.NoEventSprite"/>
+    <classEntry path="easygame.framework.loader.LoaderAdapter"/>
+    <classEntry path="easygame.framework.loader.LoadContent"/>
+    <classEntry path="easygame.framework.loader.LoadBehaviour"/>
+    <classEntry path="easygame.framework.loader.ILoadContent"/>
+    <classEntry path="easygame.framework.display.GameSprite"/>
+    <classEntry path="easygame.framework.cache.disobj.CachableDisplayObject"/>
+    <classEntry path="easygame.framework.cache.disobj.DisplayObjectCache"/>
+    <classEntry path="easygame.framework.display.GameDisplayObject"/>
+    <classEntry path="easygame.framework.display.DisplayObjectTemplate"/>
+    <classEntry path="easygame.framework.text.BorderTextField"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

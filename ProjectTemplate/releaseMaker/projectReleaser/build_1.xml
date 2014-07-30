@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flex-config>
+   <compiler>
+      <!-- compiler.accessible: generate an accessible SWF-->
+      <accessible>false</accessible>
+      <!-- compiler.allow-source-path-overlap: checks if a source-path entry is a subdirectory of another source-path entry. It helps make the package names of MXML components unambiguous.-->
+      <allow-source-path-overlap>false</allow-source-path-overlap>
+      <!-- compiler.as3: use the ActionScript 3 class based object model for greater performance and better error reporting. In the class based object model most built-in functions are implemented as fixed methods of classes.-->
+      <as3>true</as3>
+      <!-- compiler.compress: enables or disables SWF file compression-->
+      <compress>true</compress>
+      <!-- compiler.debug: generates a movie that is suitable for debugging-->
+      <debug>true</debug>
+      <!-- compiler.es: use the ECMAScript edition 3 prototype based object model to allow dynamic overriding of prototype properties. In the prototype based object model built-in functions are implemented as dynamic properties of prototype objects.-->
+      <es>false</es>
+      <!-- compiler.external-library-path: list of SWC files or directories to compile against but to omit from linking-->
+      <external-library-path>
+         <path-element>D:\Program Files\Adobe\Adobe Flash Builder 4.7\eclipse\plugins\com.adobe.flash.compiler_4.7.0.349722\AIRSDK\frameworks\libs\player\11.9\playerglobal.swc</path-element>
+      </external-library-path>
+      <!-- compiler.library-path: list of SWC files or directories that contain SWC files-->
+      <library-path>
+         <!-- <path-element>D:\Program Files\Adobe\Adobe Flash Builder 4.7\eclipse\plugins\com.adobe.flash.compiler_4.7.0.349722\AIRSDK\frameworks\libs\asc-support.swc</path-element>
+         <path-element>D:\Program Files\Adobe\Adobe Flash Builder 4.7\eclipse\plugins\com.adobe.flash.compiler_4.7.0.349722\AIRSDK\frameworks\libs\core.swc</path-element>-->
+         <path-element>E:\OGZQ2_2014\OGZQ2\libs\greensock.swc</path-element>
+         <path-element>E:\OGZQ2_2014\OGZQ2\libs\zip.swc</path-element>
+      </library-path>
+      <!-- compiler.locale: specifies the locale for internationalization-->
+      <locale>
+         <locale-element>en_US</locale-element>
+      </locale>
+      <!-- compiler.omit-trace-statements: toggle whether trace statements are omitted-->
+      <omit-trace-statements>true</omit-trace-statements>
+      <!-- compiler.optimize: Enable post-link SWF optimization-->
+      <optimize>true</optimize>
+      <!-- compiler.show-actionscript-warnings: runs the AS3 compiler in a mode that detects legal but potentially incorrect code-->
+      <show-actionscript-warnings>true</show-actionscript-warnings>
+      <!-- compiler.show-binding-warnings: toggle whether warnings generated from data binding code are displayed-->
+      <show-binding-warnings>true</show-binding-warnings>
+      <!-- compiler.source-path: list of path elements that form the roots of ActionScript class hierarchies-->
+      <source-path>
+         <path-element>E:\OGZQ2_2014\OGZQ2\src</path-element>
+      </source-path>
+      <!-- compiler.strict: runs the AS3 compiler in strict error checking mode.-->
+      <strict>true</strict>
+      <!-- compiler.verbose-stacktraces: save callstack information to the SWF for debugging-->
+      <verbose-stacktraces>false</verbose-stacktraces>
+      <!-- compiler.warn-assignment-within-conditional: Assignment within conditional.-->
+      <warn-assignment-within-conditional>true</warn-assignment-within-conditional>
+      <!-- compiler.warn-bad-array-cast: Possibly invalid Array cast operation.-->
+      <warn-bad-array-cast>true</warn-bad-array-cast>
+      <!-- compiler.warn-bad-date-cast: Invalid Date cast operation.-->
+      <warn-bad-date-cast>true</warn-bad-date-cast>
+      <!-- compiler.warn-bad-nan-comparison: Illogical comparison with NaN. Any comparison operation involving NaN will evaluate to false because NaN != NaN.-->
+      <warn-bad-nan-comparison>true</warn-bad-nan-comparison>
+      <!-- compiler.warn-bad-null-assignment: Impossible assignment to null.-->
+      <warn-bad-null-assignment>true</warn-bad-null-assignment>
+      <!-- compiler.warn-bad-undefined-comparison: Illogical comparison with undefined.  Only untyped variables (or variables of type *) can be undefined.-->
+      <warn-bad-undefined-comparison>true</warn-bad-undefined-comparison>
+      <!-- compiler.warn-const-not-initialized: Constant not initialized.-->
+      <warn-const-not-initialized>true</warn-const-not-initialized>
+      <!-- compiler.warn-duplicate-variable-def: Duplicate variable definition -->
+      <warn-duplicate-variable-def>true</warn-duplicate-variable-def>
+      <!-- compiler.warn-instance-of-changes: Use of the instanceof operator.-->
+      <warn-instance-of-changes>true</warn-instance-of-changes>
+      <!-- compiler.warn-missing-namespace-decl: Missing namespace declaration (e.g. variable is not defined to be public, private, etc.).-->
+      <warn-missing-namespace-decl>true</warn-missing-namespace-decl>
+      <!-- compiler.warn-no-type-decl: Missing type declaration.-->
+      <warn-no-type-decl>true</warn-no-type-decl>
+   </compiler>
+   <frames>
+      <!-- frames.frame: A SWF frame label with a sequence of classnames that will be linked onto the frame.-->
+      <frame>
+         <label>OGZQ2</label>
+         <classname>OGZQ2</classname>
+      </frame>
+   </frames>
+   <!-- runtime-shared-library-path: specifies a SWC to link against, an RSL URL to load, with an optional policy file URL and optional failover URLs -->
+   <runtime-shared-library-path></runtime-shared-library-path>
+   <runtime-shared-library-settings/>
+   <!-- target-player: specifies the version of the player the application is targeting. Features requiring a later version will not be compiled into the application. The minimum value supported is "9.0.0".-->
+   <target-player>11.2.0</target-player>
+   <!-- use-network: toggle whether the SWF is flagged for access to network resources-->
+   <use-network>true</use-network>
+</flex-config>

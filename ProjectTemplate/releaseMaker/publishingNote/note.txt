@@ -1,0 +1,9 @@
+版本发布说明文档：(注意根据个人路径修改对应的[dataZipper\dataCreator.bat][\versionCreator\AutoMD5.exe.confi]文件)
+
+首先安装tool文件夹下的exe文件
+
+1、从svn获取最新版本
+2、执行【项目菜单】->【清理项目】
+3、点击【导出发行版】按钮
+4、执行releaseMaker目录下的autoReleaser.bat文件
+5、切记在Login.php里的设置flashvars.online 值为1，表示上线版本

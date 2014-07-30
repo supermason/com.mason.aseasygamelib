@@ -1,0 +1,35 @@
+LOG_IN					- 0XX系列存储过程
+CHAT 					- 1XX系列存储过程
+BOTTOM_BUTTON_BAR 		- 2XX系列存储过程
+AVATAR 					- 3XX系列存储过程
+PLAYER 					- 4XX系列存储过程
+FORMATION 				- 5XX系列存储过程
+LEAGUE 					- 6XX系列存储过程
+CHALLENGE 				- 7XX系列存储过程
+PACK 					- 8XX系列存储过程
+MALL 					- 9XX系列存储过程
+SCOUT 					- 10XX系列存储过程
+SYNTHESIS				- 11xx系列存储过程
+LETTER					- 12xx系列存储过程
+RANK					- 13xx系列存储过程
+TASK					- 14xx系列存储过程
+REWARD					- 15xx系列存储过程
+LADDER					- 16xx系列存储过程
+TEAM					- 17xx系列存储过程
+YOUTH_CAP_CARD_POOL		- 18xx系列存储过程
+YOUTH_CAP_TRAINING		- 19xx系列存储过程
+YOUTH_CAP_PLAYER_TRADE 	- 20xx系列存储过程
+CHAMPIONS			 	- 22xx系列存储过程
+TENCENT_REQUIREMENTS 	- 23xx系列存储过程
+ACTIVITYCENTER			- 24xx系列存储过程
+THECLUB 				- 25xx系列存储过程
+NOTICE					- 26xx系列存储过程
+ELITEMATCH				- 27xx系列存储过程
+GIFTCENTER				- 28xx系列存储过程
+
+ROOKIE					- 92xx系列存储过程
+RESOURCE_PUSH			- 91XX系列存储过程
+MATCH 					- 99XX系列存储过程
+
+
+

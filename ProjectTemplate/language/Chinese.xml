@@ -1,0 +1,783 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Chinese>
+	<!-- GameLoaderManager.as -->
+	<defLoadTxt>资源加载中...</defLoadTxt>
+	<!-- ResponseManager.as  -->
+	<getUserInfo>获取玩家数据中...</getUserInfo>
+	<disconnected>与服务器的连接断开，请刷新网页！</disconnected>
+	<ioErr>发生流错误，请尝试刷新网页！</ioErr>
+	<secErr>发生安全沙箱错误，请尝试刷新网页！</secErr>
+	<!-- ResponseBase.as -->
+	<tooFrequent>您的操作过于频繁，可以稍微休息下您的手指</tooFrequent>
+	<releasingNewVersion>新版本正在发布中，请稍等片刻</releasingNewVersion>
+	<serverIsFull>服务器爆满，请刷新重试！</serverIsFull>
+	<!-- Common -->
+	<accountForbidden>您的帐号将在@解封！</accountForbidden>
+	<confirm>确定</confirm>
+	<close>关闭　</close>
+	<cancel>取消</cancel>
+	<buy>购买</buy>
+	<day>天</day>
+	<hour>小时</hour>
+	<minute>分</minute>
+	<second>秒</second>
+	<euro>欧元</euro>
+	<gold>金币</gold>
+	<goldBound>绑定金币</goldBound>
+	<reputation>声望</reputation>
+	<youthFund>青训基金</youthFund>
+	<draw>领取</draw>
+	<draw1>　领取　</draw1>
+	<drawn>已领取</drawn>
+	<rank>排名</rank>
+	<club>球队</club>
+	<result>成绩</result>
+	<winStr>胜</winStr>
+	<tieStr>平</tieStr>
+	<loseStr>负</loseStr>
+	<scoreStr>积分</scoreStr>
+	<player>球员</player>
+	<belongClub>所属球队</belongClub>
+	<shotCount>进球数</shotCount>
+    <trainingPoint>训练点</trainingPoint>
+    <exp>经验</exp>
+    <prePage>上一页</prePage>
+    <nextPage>下一页</nextPage>
+    <time>时　间</time>
+    <content>内　容</content>
+    <receiver>收件人</receiver>
+    <sender>发件人</sender>
+    <powerStr>实力</powerStr>
+    <powerStr2>实　力</powerStr2>
+    <ability>能力</ability>
+    <tendency>走势</tendency>
+    <useLbl>使用</useLbl>
+    <exchangeLbl>兑换</exchangeLbl>
+    <buyLbl>购买</buyLbl>
+    <piece>张</piece>
+    <costTip>花费</costTip>
+    <rewardStr>奖励</rewardStr>
+    <pleaseWait>敬请期待</pleaseWait>
+    <iKnow>我知道了</iKnow>
+    <gain>可获得：</gain>
+    <congMsg>恭喜您获得了</congMsg>
+    <noTalk>您已被禁言3小时</noTalk>
+    <bottomInfo>声明《欧冠足球2》应用是由"青岛旭冠" 提供 官方交流群:317415386，若您在游戏中遇到任何问题，可以直接联系客服QQ: &lt;a href='event:qqService'&gt;&lt;u&gt;800005320&lt;/u&gt;&lt;/a&gt;</bottomInfo>
+    <forumURL>，或访问&lt;a href='event:bbsURL'&gt;&lt;u&gt;官方论坛&lt;/u&gt;&lt;/a&gt;</forumURL>
+    <yourID>您的用户ID：</yourID>
+    <qqService>http://crm2.qq.com/page/portalpage/wpa.php?uin=800005320&aty=0&a=0&curl=&ty=1</qqService>
+    <bbsURL>http://bbs.open.qq.com/forum.php?mod=forumdisplay&action=list&fid=2710</bbsURL>
+    <!-- UICreateClub.as -->
+    <newComer>赢不赢球，名字很重要　</newComer>
+    <newName></newName>
+    <createTeam>　创建球队　</createTeam>
+    <illegal1>您起的球队名含有敏感词，请重新输入</illegal1>
+    <illegal2>请填写球队名称</illegal2>
+    <welcome>颤抖吧，我们将以升班马的身份挑战意甲豪门！</welcome>
+    <newTeamMem></newTeamMem>
+    <startGame>　意甲联赛　</startGame>
+    <!-- UIChat.as -->
+    <cWorld>世界</cWorld>
+    <cPrivate>私聊</cPrivate>
+    <cSystem>系统</cSystem>
+    <cTip1>&lt;font color='#ff0000'&gt;【提示】发送的信息不能为空&lt;/font&gt;</cTip1>
+    <cTip2>&lt;font color='#ff0000'&gt;【提示】您的语速有点快 &lt;/font&gt;</cTip2>
+    <cTip3>&lt;font color='#ff0000'&gt;【提示】不能重复发送消息 &lt;/font&gt;</cTip3>
+    <viewTeam>查看球队</viewTeam>
+    <p2p>与TA私聊</p2p>
+    <sendLetter>给TA写信</sendLetter>
+    <say2M>对你说：</say2M>
+    <say2U>你对@说：</say2U>
+    <notOnline>对方不在线，无法与TA私聊</notOnline>
+    <!-- UIBottomButtonBar.as -->
+    <trainingStr>训练</trainingStr>
+    <formation>阵容</formation>
+    <bag>背包</bag>
+    <mall>商城</mall>
+    <union1>球会</union1>
+	<!-- UILeague.as -->
+	<leagueEnergy>联赛精力：</leagueEnergy>
+	<scoreList>积分榜　</scoreList>
+	<leaguename>意甲,法甲,德甲,英超,西甲</leaguename>
+	<tacticname>初级进攻,初级组织,初级防守,中级进攻,中级组织,中级防守,高级进攻,高级组织,高级防守</tacticname>
+	<buyEnergy>补充精力</buyEnergy>
+	<power>实力：</power>
+	<goBack>返回</goBack>
+	<startMatch>开始比赛　</startMatch>
+	<vsInfo>本轮对阵</vsInfo>
+	<seasonSchedule>赛季赛程</seasonSchedule>
+	<topScorerList>射手榜</topScorerList>
+	<leagueRound1>@联赛·　</leagueRound1>
+	<leagueRound2>·第@轮　</leagueRound2>
+	<seasonOver>@联赛　</seasonOver>
+	<seasonOver2>本赛季已完赛</seasonOver2>
+	<drawReward>　领取奖励　</drawReward>
+	<seasonEndReward>      恭喜您在本赛季中位列第@名，获得了如下奖励，奖励领取后将清除本赛季的全部数据</seasonEndReward>
+	<drawRewardOk>领取成功</drawRewardOk>
+	<choujiangOk>抽取成功</choujiangOk>
+	
+	<leagueRewardTip>领取奖励后，将开启新的赛季，本赛季数据清零</leagueRewardTip>
+	<leagueConfirm>您确认领取如下奖励并继续吗？</leagueConfirm>
+	<startNewLeague>您可以开始新的联赛历程了</startNewLeague>
+	<round>轮次</round>
+	<homeTeam>主队</homeTeam>
+	<awayTeam>客队</awayTeam>
+	<bestR>最高名次：</bestR>
+	<noLeague>尚未进行过该联赛的比赛</noLeague>
+	<boardHope>董事会期望</boardHope>
+	<hopeReward1>本赛季排名@，奖励</hopeReward1>
+	<hopeReward2>提升排名至@，奖励</hopeReward2>
+	<hopeReward3>你很棒，董事会没有看走眼</hopeReward3>
+	<enthusiasmTip>联赛获胜：净胜球=1，球迷激情+5%&lt;br&gt;联赛获胜：净胜球=2，球迷激情+6%&lt;br&gt;联赛获胜：净胜球=3，球迷激情+7%&lt;br&gt;联赛获胜：净胜球>3，球迷激情+8%&lt;br&gt;联赛打平：球迷激情+3%&lt;br&gt;联赛失败：球迷激情-2%</enthusiasmTip>
+	<drawPlayerOK2>球员领取成功，请在阵容球员页中查看</drawPlayerOK2>
+	<threeMusketeersTitle>三剑客说明</threeMusketeersTitle>
+	<threeMusketeersIntro>（1）只有在首次获得意甲联赛冠军时，才能领取三剑客球员，再次获得冠军时没有三剑客奖励。&lt;br&gt;&lt;br&gt;（2）三剑客球员初始品质为精英，在后续的四大联赛中，首次获得冠军会奖励三剑客升品质的道具。&lt;br&gt;&lt;br&gt;（3）三剑客球员升至巨星（紫色）品质后，还可继续升级成超星（紫金）品质。&lt;br&gt;&lt;br&gt;（4）在升品质的过程中，球员等级将变为一级，所加训练点返还。&lt;br&gt;&lt;br&gt;（5）未领取的两名三剑客球员可在后续版本中获得，敬请期待。</threeMusketeersIntro>
+	<championToDrawTM>首次获得意甲冠军后领取</championToDrawTM>
+	<attri2>射门,传球,铲断,盘带,拦截,力量,速度,协调</attri2>
+	<tmMaxAttris1>82,88,118,100,114,112,109,111</tmMaxAttris1>
+	<tmMaxAttris2>120,116,75,108,65,114,110,112</tmMaxAttris2>
+	<tmMaxAttris3>98,115,95,112,96,85,108,113</tmMaxAttris3>
+	<willTo>可提升至</willTo>
+	<firstYJEnd>恭喜你出色的完成了本赛季意甲联赛的所有比赛，排名第@位，请领取奖励。</firstYJEnd>
+	<firstYJEnd_T>前去领奖</firstYJEnd_T>
+	<canGetTM>你在首届意甲联赛中的冠军表现为你赢得了额外的球员奖励，从荷兰三剑客中挑选一名吧。</canGetTM>
+	<canGetTM_T>获取球员</canGetTM_T>
+	<!-- UIPlayer.as -->
+	<playePosition>门将,后卫,中场,前锋</playePosition>
+	<playerzb>球衣,球裤,球鞋</playerzb>
+	<playerSaveBtn>保存</playerSaveBtn>
+	<playerResetBtn>重置</playerResetBtn>
+	<playerSaveText>你仍有未保存的加点，是否保存并关闭？</playerSaveText>
+	<playerSaveText1>你仍有未保存的加点，是否保存？</playerSaveText1>
+	<EmployExp>使用经验卡</EmployExp>
+	<rankRnage>排名区间</rankRnage>
+	<people>人</people>
+	<threeMusk>三剑客说明>></threeMusk>
+	<tmTip1>意甲联赛冠军奖励</tmTip1>
+	<tmTip2>从荷兰三剑客中选择一名球员作为奖励</tmTip2>
+	<TB>替补</TB>
+	<SuperStar>超星</SuperStar>
+	<UpQualityXY>升品质需要@张</UpQualityXY>
+	<MFReturn>免费返还</MFReturn>
+	<GoldReturn>金币返还</GoldReturn>
+	<FiredType>请选择解雇方式</FiredType>
+	<UpLvXY>升级需要</UpLvXY>
+	<XYNum>需要数量：</XYNum>
+	<zbtxt>升级需@碎片</zbtxt>
+	<doubleDown>双击卸下</doubleDown>
+	<lv>级</lv>
+	<TJnot>条件不足</TJnot>
+	<!-- UIMall.as -->
+	<tbnInMall>金币道具,欧元商城,Q点商城</tbnInMall>
+	<currencyName>拥有金币：,拥有欧元：,</currencyName>
+	<buyGold>购买金币</buyGold>
+	<price>价格：@金</price>
+	<price3>价格：@欧元</price3>
+	<price4>价格：@Q点</price4>
+	<countLimit>数量：</countLimit>
+	<serverCount>全服限购：</serverCount>
+	<personalCount>个人限购：</personalCount>
+	<leftCount>当前剩余：</leftCount>
+	<buyLvl>购买等级：</buyLvl>
+	<buyOk>购买成功</buyOk>
+	<buyGoodsCount>请输入购买数量：</buyGoodsCount>
+	<costInfo2>购买@个需要花费</costInfo2>
+	<buyGoodsTip>购买[@]</buyGoodsTip>
+	<repuTitle>蓝钻,橙钻,红钻,紫钻</repuTitle>
+	<alreadyBought>已购买</alreadyBought>
+	<noRepu>您的声望不足</noRepu>
+	<needRepu>声望@开启</needRepu>
+	<!-- UIPackage.as -->
+	<tbnInPack>球员,签约,升级,装备</tbnInPack>
+	<dumpInfo>确定要丢弃 [@]么？</dumpInfo>
+	<useInfo>使用 [@]</useInfo>
+	<exchangeInfo>[@]兑换#积分</exchangeInfo>
+	<useInfo2>确定使用[@]么？</useInfo2>
+	<sort>整理</sort>
+	<useOk>道具使用成功</useOk>
+	<cROK>成功恢复1点挑战赛体力</cROK>
+	<closeSynUI>请先关闭卡牌合成界面，再切换页签</closeSynUI>
+	<closeUpgUI>请先关卡牌升级界面，再切换页签</closeUpgUI>
+	<cc5In1>升级</cc5In1>
+	<pcul>升级</pcul>
+	<pcuq>升品</pcuq>
+	<sROK>成功添加一次球探搜索次数</sROK>
+	<exchangeOK>成功兑换了@积分</exchangeOK>
+	<playerLvlUpOk>成功升级为</playerLvlUpOk>
+	<!-- UIPlayerCardBox.as -->
+	<refreshPlayer>刷新</refreshPlayer>
+	<drawPlayer>领取</drawPlayer>
+	<refreshFee>刷新需花费@金币</refreshFee>
+	<drawPlayerOK>成功领取球员，请在球探大厅查看</drawPlayerOK>
+	<playerAttris>球员属性一览</playerAttris>
+	<!-- UIMatch.as -->
+	<loadEngine>正在加载比赛引擎...</loadEngine>
+	<!-- UIFormation.as -->
+	<title>球队阵容</title>
+	<upgradeTactic>战术升级</upgradeTactic>
+	<attackTendency>进攻型球队</attackTendency>
+	<defenceTendency>防守型球队</defenceTendency>
+	<orgnizeTendency>组织性球队</orgnizeTendency>
+	<formationInfo>初级进攻(3-4-3),初级组织(4-4-2),高级防守(5-4-1),中级进攻(4-3-3),中级组织(4-5-1),中级防守(5-3-2),,,,高级进攻(4-4-2),初级防守(3-5-2),高级组织(4-5-1)</formationInfo>
+	<putInUse>启用</putInUse>
+	<fLvlUp>升级</fLvlUp>
+	<luCondition>升级条件：</luCondition>
+	<lufTip1>升级需要@战术点</lufTip1>
+	<lufTip2>升级需要球队等级达到@级</lufTip2>
+	<lufTip3>球队等级达到30级&lt;br&gt;对应的初级战术10级</lufTip3>
+	<tactics>战术点：</tactics>
+	<reachMaxLvl>恭喜，该战术已升级至满级</reachMaxLvl>
+	<openWhen10>战术功能将在10级开放，请努力升级！</openWhen10>
+	<maxLvl>已满级</maxLvl>
+	<inUse>已启用</inUse>
+	<openTendency>恭喜，第@个战术倾向开启</openTendency>
+	<lvlUpF>是否花费@战术点升级战术？</lvlUpF>
+	<fLvlUpOk>升级成功！</fLvlUpOk>
+	<powerChange>球队实力　</powerChange>
+	<powerNoChange>球队实力保持不变</powerNoChange>
+	<dragToCourt>拖拽上场</dragToCourt>
+	<rewardPlayer>科洛图雷</rewardPlayer>
+	<!-- UIMatchResult.as -->
+	<statisticName>射门,扑救,出击,突破,铲球,传球,断球</statisticName>
+	<leaveMatch>　离开　</leaveMatch>
+	<!-- Item.as -->
+	<price2>售价：</price2>
+	<count>数量：</count>
+	<topLvl>&lt;font color='#ff0000'&gt;已达最高等级，无法继续升级&lt;/font&gt;</topLvl>
+	<topQuality>&lt;font color='#ff0000'&gt;已达最高品质，无法继续升品&lt;/font&gt;</topQuality>
+	<!-- UIXXXSynthesis.as -->
+	<synthesis>合成</synthesis>
+	<batchSynthesis>批量合成</batchSynthesis>
+	<synthesisOdds>合成几率：</synthesisOdds>
+	<synthesisOk>恭喜！您成功合成@个$</synthesisOk>
+	<synthesisFail>很遗憾，概率过低合成失败！</synthesisFail>
+	<upgradeOk>恭喜！您成功升级出@个$</upgradeOk>
+	<upgradeFail>很遗憾，概率过低升级失败！</upgradeFail>
+	<fee>手续费：</fee>
+	<removeTip>单击物品可将之移除</removeTip>
+	<mustThree>升级卡必须三合一</mustThree>
+	<needThree>请放入三张品质相同的球员升级道具</needThree>
+	<mustFive>签约道具必须五合一</mustFive>
+	<needFive>请放入五张品质相同的签约道具</needFive>
+	<notOne>一张卡无法进行操作，请至少放入两张</notOne>
+	<costInfo4>批量合成@次需要花费</costInfo4>
+	<useAToB>使用[@]批量合成</useAToB>
+	<!-- ChallengeSelectionRender.as -->
+	<openCondition>开启条件：</openCondition>
+	<completeCondition>获得条件：</completeCondition>
+	<task>任务</task>
+	<star>星</star>
+	<starTaskOver>恭喜，星级任务已全部完成</starTaskOver>
+	<energyFull>您的体力已满，可以潇洒的继续挑战~</energyFull>
+	<energyCost>是否花费@金币补满挑战赛体力？</energyCost>
+	<done>(已完成)</done>
+	<inProgress>(未完成)</inProgress>
+	<lose>很遗憾，你未能挑战成功</lose>
+	<!-- UITeamSelection.as -->
+	<challengeEnergy>挑战赛体力：</challengeEnergy>
+	<fullTip>挑战赛体力预计于@回满</fullTip>
+	<alreadyFull>挑战赛体力充沛，请尽情挑战吧</alreadyFull>
+	<firstKill>&lt;font color='#ffff00'&gt;三星首杀奖励：@声望&lt;/font&gt;</firstKill>
+	<firstKillOwner>&lt;font color='#ffff00'&gt;捷足先登&lt;br&gt;获得首杀奖励@声望&lt;/font&gt;</firstKillOwner>
+	<playerTP>球员训练点</playerTP>
+	<energyRecovering>体力恢复中....</energyRecovering>
+	<nextEnergyRecoverTip>下点体力回复：</nextEnergyRecoverTip>
+	<challengeEnergyRecoverCard>@张挑战赛体力卡可用</challengeEnergyRecoverCard>
+	<challengYJGT1>恭喜你在这么短的时间内通关意甲，这三张&lt;font color='#f6ff00'&gt;战术卡&lt;/font&gt;将大幅提升你的战术等级。</challengYJGT1>
+	<challengYJGT2>20支法甲球队已经迫不及待要和你决一胜负了，挑战之前先派遣你的球探去&lt;font color='#f6ff00'&gt;法甲&lt;/font&gt;搜搜看吧！</challengYJGT2>
+	<goOnAndOn1>再接再历</goOnAndOn1>
+	<goOnAndOn2>派遣球探</goOnAndOn2>
+	<!-- UILetter.as -->
+	<letterTabName>系统信箱,玩家信箱,写短信,发件箱</letterTabName>
+	<sysMsg>系统消息</sysMsg>
+	<deleteAll>全部删除</deleteAll>
+	<reply>回复</reply>
+	<deleteOne>删除</deleteOne>
+	<needToName>请填写收件人名称</needToName>
+	<neetContent>请填写短信内容</neetContent>
+	<noSelfSend>自己给自己写短信，很无聊哦</noSelfSend>
+	<letterSent>短信发送成功</letterSent>
+	<send>发送</send>
+	<hasFW>短信内容带有敏感词，请修改后再发送</hasFW>
+	<deleteOneOk>短信删除成功~</deleteOneOk>
+	<deleteAllOk>共删除了@条已读短信</deleteAllOk>
+	<!-- UIRank.as -->
+	<rankTab>实力,等级,声望,球员</rankTab>
+	<managerName>经理名</managerName>
+	<playerName>球员名</playerName>
+	<appeal>声望</appeal>
+	<!-- UIReward.as -->
+	<getReward>获得奖励：</getReward>
+	<flipOneMoreCard>你还可以花费@金币再次抽取一张牌</flipOneMoreCard>
+	<flipOneMoreCardFree>你还可以免费再次抽取一张牌</flipOneMoreCardFree>
+	<cardCount>额外奖励：从下面@张牌中抽取1张</cardCount>
+	<noMoreFlip>本次奖励，只能翻取@张牌</noMoreFlip>
+	<noMoreFlip2>已经不能再抽取更多的牌了</noMoreFlip2>
+	<moreFlip>是否花费 @ 金币再翻一张牌？</moreFlip>
+	<shuffleCard>　开始翻牌　</shuffleCard>
+	<!-- UITask.as -->
+	<mainTask>主线任务</mainTask>
+	<subTask>支线任务</subTask>
+	<taskInfoTitle>任务描述：</taskInfoTitle>
+	<taskContentTitle>任务追踪：</taskContentTitle>
+	<taskRewardTitle>任务奖励：</taskRewardTitle>
+	<scountCount>球探搜索次数+</scountCount>
+	<taskFinished>&lt;font color='#f9da0d'&gt;已完成 &lt;/font&gt;</taskFinished>
+	<taskNotFinished>&lt;font color='#a7e900'&gt;未完成 &lt;/font&gt;</taskNotFinished>
+	<goAndTask>　前往　</goAndTask>
+	<taskDraw>　领取　</taskDraw>
+	<finishTask>任务已完成，可以前去领奖</finishTask>
+	<lvlNotEno>青训地区选拔27即开启,青训国家选拔38级开启,青训全球选拔45级开启</lvlNotEno>
+	<!-- UILadder.as -->
+	<ladderEnergy>天梯赛精力：</ladderEnergy>
+	<ladderCount>挑战次数：@次</ladderCount>
+	<ladderYvCount>黄钻次数：@次</ladderYvCount>
+	<checkYvPrevi>查看黄钻特权</checkYvPrevi>
+	<eachPay>金币/次</eachPay>
+	<curStage>　第@关　</curStage>
+	<ladderRewardIntro>奖励说明</ladderRewardIntro>
+	<lriContent>第1名,1000,3000|第2名,800,2000|第3名,600,1800|第4名,500,1600|5至8名,400,1400|9至16名,300,1200|17至32名,200,1000</lriContent>
+	<ladderIntro>赛事说明</ladderIntro>
+	<teamRank>排名：</teamRank>
+	<doMorale>鼓舞士气</doMorale>
+	<challenge>　挑战　</challenge>
+	<teamPower>球队实力</teamPower>
+	<originalTeamPower>基础球队实力</originalTeamPower>
+	<curTeamPower>当前球队实力</curTeamPower>
+	<moraleUp>鼓舞成功，您的球队实力提升了</moraleUp>
+	<goThrough>闯过@关，获得</goThrough>
+	<notClimb>今日尚未闯过任何一关</notClimb>
+	<noCount>闯关次数不足，请后买后继续闯关</noCount>
+	<buyCount>购买天梯赛挑战次数</buyCount>
+	<costInfo>需要花费@金币</costInfo>
+	<lostCount>今日您已挑战失败@次</lostCount>
+	<noLadder>已失败3次，无法继续挑战，请明日再来~</noLadder>
+	<isThrough>恭喜您闯入第30关！</isThrough>
+	<ladderOpenTime>每天早上8点至晚上23点可以挑战</ladderOpenTime>
+	<ladderIntroContent>比赛时间：每天8:00-23:00&lt;br&gt;&lt;br&gt;比赛消耗：玩家每天拥有10次免费挑战次数，次数耗尽可消耗金币继续挑战。&lt;br&gt;&lt;br&gt;比赛规则：1.天梯赛共分30关,通关30关后，本日不可再次挑战。&lt;br&gt;　　　　　2.每关有三支守关球队，根据不同难度，获胜后分别获得1个、2个和3个天梯赛徽章。&lt;br&gt;　　　　　3.玩家在当前关卡获得3个天梯赛徽章后方可进入下一关，进入下一关后不可返回当前关卡。&lt;br&gt;　　　　　4.天梯赛每日夜间重置，重置后排名和通关数将清零。&lt;br&gt;&lt;br&gt;比赛奖励：1.玩家每场比赛胜利都将获得战术点和声望奖励，奖励多少和关卡及对手难度相关。&lt;br&gt;　　　　　2.玩家在满足条件前往下一关时，还将获得战术点的奖励，每闯过5关还有青训基金的奖励。&lt;br&gt;　　　　　3.每日比赛结束后，还将按着通关数、天天赛徽章和通关时间的顺序进行排名，排名前32位的玩家可获得排名奖励。</ladderIntroContent>
+	<moveToNextFloor>　挑战第@关　</moveToNextFloor>
+	<beatIt>　已战胜　</beatIt>
+	<curLadderScore>天梯赛徽章：</curLadderScore>
+	<stageScore>每一关至少取得3个徽章才能闯入下一关。本关已获徽章：</stageScore>
+	<canMoveToNextFloor>，可以前往下一关</canMoveToNextFloor>
+	<challengeCost>免费次数已用尽，再次挑战需要花费@金币</challengeCost>
+	<youthFoudsGot>@战术点</youthFoudsGot>
+	<drawYF>　领取青训基金　</drawYF>
+	<tacticPoint>奖励@战术点</tacticPoint>
+	<youthCampUpdateGameCoin>花费：@欧元</youthCampUpdateGameCoin>
+	<qualityIsMax>球员品质已满</qualityIsMax>
+	<noMoney>欧元不足</noMoney>
+	<!-- UIScoutSigning -->
+	<scoutLvUp>球探等级提升!</scoutLvUp>
+	<Signing>签约</Signing>
+	<Retain>保留</Retain>
+	<Abandon>放弃</Abandon>
+	<FillOil>加满油需要花费@金币!</FillOil>
+	<ScoutSignTxt>成功签约  @球员</ScoutSignTxt>
+	<ScoutMoney>跳过搜索时间需要花费@金币</ScoutMoney>
+	<ScoutFJ>法家</ScoutFJ>
+	<ScoutDJ>德甲&lt;br&gt;开启条件:&lt;br&gt;法甲挑战赛全部通关&lt;br&gt;挑战赛共获得20颗星</ScoutDJ>
+	<ScoutYJ>意甲&lt;br&gt;开启条件:&lt;br&gt;德甲挑战赛全部通关&lt;br&gt;挑战赛共获得60颗星</ScoutYJ>
+	<ScoutYC>英超&lt;br&gt;开启条件:&lt;br&gt;意甲挑战赛全部通关&lt;br&gt;挑战赛共获得90颗星</ScoutYC>
+	<ScoutXJ>西甲&lt;br&gt;开启条件:&lt;br&gt;英超挑战赛全部通关&lt;br&gt;挑战赛共获得190颗星</ScoutXJ>	
+	<ScoutPlayer>普通,优秀,精英,杰出,大牌,巨星,紫金,传奇</ScoutPlayer>
+	<ScoutPlayer1>普通</ScoutPlayer1>
+	<ScoutPlayer2>优秀</ScoutPlayer2>
+	<ScoutPlayer3>精英</ScoutPlayer3>
+	<ScoutPlayer4>杰出</ScoutPlayer4>
+	<ScoutPlayer5>大牌</ScoutPlayer5>
+	<ScoutPlayer6>巨星</ScoutPlayer6>
+	<ScoutPlayer7>传奇</ScoutPlayer7>
+	<ScoutPrompt>可使用油桶补满(剩余@个)</ScoutPrompt>
+	<ScoutExpText>球队等级和搜索次数可以提高球探等级</ScoutExpText>
+	<ScoutNum>搜索次数：</ScoutNum>
+	<ScoutPZ>您当前的球探等级可搜索的球员品质：</ScoutPZ>
+	<OneClear>一键清除</OneClear>
+	<Insufficient>不足</Insufficient>
+	<ScoutFiredTXT>您的替补席已满，是否解雇球员？</ScoutFiredTXT>
+	<goFired>前去解雇</goFired>
+	<!-- SceneManager.as -->
+	<sceneBtnName>　青训营　,　球探　,　合成中心　,　挑战球场　,　球员交易　,　中央球场　</sceneBtnName>
+	<leagueName2>法甲联赛,德甲联赛,意甲联赛,英超联赛,西甲联赛</leagueName2>
+	<synOprName>签约道具合成,升级卡升等级,升级卡升品质</synOprName>
+	<challengeLadder>挑战赛,天梯赛,杯　赛,欧冠联赛,精英赛</challengeLadder>
+	<youthCampOpenC>青训营27级开放，请努力升级！</youthCampOpenC>
+	<tradeOpen>球员交易35级开放，请努力升级！</tradeOpen>
+	<!-- CountChosePopUp.as -->
+	<inputCount>请输入数量：</inputCount>
+	<maxCount>(上限@)</maxCount>
+	<!-- UITeamInfo.as -->
+	<curRank>当前排名：</curRank>
+	<prestige>声望：</prestige>
+	<union>所属球会：</union>
+	<curFormation>球队战术：</curFormation>
+	<topPower>最强实力：</topPower>
+	<teamInfo>球队信息</teamInfo>
+	<cupName>意大利杯,法国杯,德国杯,足总杯,国王杯,欧冠</cupName>
+	<changeTeamIcon>更换头像</changeTeamIcon>
+	<!-- UIChangeTeamIcon.as -->
+	<saveIcon>保存</saveIcon>
+	<saveIconOk>头像保存成功~</saveIconOk>
+	<!-- YouthCampCardPool.as -->
+	<selectionTabName>地区选拔,国家选拔,全球选拔</selectionTabName>
+	<curPopularity>人气值</curPopularity>
+	<popularity100>人气达到100即可使用[全球选拔]，每次[全球选拔]消耗100人气</popularity100>
+	<selectPlayer>　开始选拔　</selectPlayer>
+	<freeSelect>　免费选拔　</freeSelect>
+	<selectByEuro>　欧元选拔　</selectByEuro>
+	<selectByGold>　金币选拔　</selectByGold>
+	<youthCamp>　青训大厅　</youthCamp>
+	<leftLocalCount>今日剩余选拔次数：　　次</leftLocalCount>
+	<countrySelectionTip>每日完成5次地区选拔可获得一次免费机会</countrySelectionTip>
+	<selectionCost>本次选拔费用：</selectionCost>
+	<talLeftCount>(剩余@名)</talLeftCount>
+	<clickSelectBtn>请点击选拔按钮进行选拔</clickSelectBtn>
+	<noEuro>您的欧元不足，无法进行选拔（可以去商城购买）</noEuro>
+	<noGold>您的金币不足，无法进行选拔。&lt;a href='event:charge'&gt;&lt;font color='#ff6600'&gt;&lt;u&gt;立即充值&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;</noGold>
+	<noGoldInLocal>无法使用金币进行地区选拔</noGoldInLocal>
+	<cdOver>后可使用欧元选拔</cdOver>
+	<spendGoldToSelect>是否花费@金币海选一次球员？</spendGoldToSelect>
+	<playerAttri>青训球员属性一览</playerAttri>
+	<attris>射门,传球,铲断,盘带,拦截,力量,速度,协调</attris>
+	<attris2>扑救,出击,手抛,长传,指挥,力量,速度,协调</attris2>
+	<youthFunds>拥有青训基金</youthFunds>
+	<yc32d>恭喜你等级到达30级，青训营-&lt;font color='#f6ff00'&gt;地区选拔&lt;/font&gt;的每日刷新次数提升至5次。</yc32d>
+	<yc32T>我知道了</yc32T>
+	<yc38d>恭喜你等级到达38级，青训营-&lt;font color='#f6ff00'&gt;国家选拨&lt;/font&gt;已为你开启。</yc38d>
+	<yc38T>我知道了</yc38T>
+	<yc47d>恭喜你等级到达45级，青训营-&lt;font color='#f6ff00'&gt;全球选拔&lt;/font&gt;已为你开启。</yc47d>
+	<yc47T>我知道了</yc47T>
+	<hasUnflippedCard>您还有尚未翻开的球员，确定刷新吗？</hasUnflippedCard>
+	<!-- YouthCampTraining -->
+	<profession>转职</profession>
+	<updateQuality>升品质</updateQuality>
+	<playerCount>人</playerCount>
+	<clickAdd>点击添加</clickAdd>
+	<btnSave>保留</btnSave>
+	<btnFired>解雇</btnFired>
+	<height>身高:</height>
+	<weight>体重:</weight>
+	<youthscout>签约</youthscout>
+	<SameQuality>同品质球员</SameQuality>
+	<YouthShop>出售</YouthShop>
+	<tx>特训</tx>
+	<NowQuality>当前品质</NowQuality>
+	<Conditions>转职条件</Conditions>
+	<UPQuality>升级品质</UPQuality>
+	<XBPlayer>选拔球员</XBPlayer>
+	<YouthCameNoPlayer>青训营里还没有球员</YouthCameNoPlayer>
+	<goSelect>赶快去选拔吧！</goSelect>
+	<EQQuality>需要相同年龄当前品质相同的球员</EQQuality>
+	<PlayerUpMax>你消耗的球员经验已超出该球员的最大值</PlayerUpMax>
+	<SelectPlayerWZ>请选择球员位置</SelectPlayerWZ>
+	<CF>前锋：</CF>
+	<CM>中场：</CM>
+	<CB>后卫：</CB>
+	<youthCampTXT>青训</youthCampTXT>
+	<ConfirmFired>确认解雇</ConfirmFired>
+	<!-- PlayerTrade -->
+	<bidding>竞价</bidding>
+	<myTrade>我的交易</myTrade>
+	<curBid>本次竞价将在当前价格的基础上</curBid>
+	<totalCost>共计@金币</totalCost>
+	<next>下一页</next>
+	<previous>上一页</previous>
+	<receiveplayer>领取球员</receiveplayer>
+	<receivemoney>领取金币</receivemoney>
+	<sellPlayer>您将出售品质为@的球员</sellPlayer>
+	<sellMoney>请输入出售价格：</sellMoney>
+	<basePrice>底价为：@金币</basePrice>
+	<saleSuccess>拍卖成功</saleSuccess>
+	<riseSuccess>竞拍成功</riseSuccess>
+	<salefail>拍卖失败</salefail>
+	<risefail>竞拍失败</risefail>
+	<transactionIsBeing>交易正在处理</transactionIsBeing>
+	<lastTime>剩余时间:</lastTime>
+	<nowPrice>当前价格:</nowPrice>
+	<attention>关注:</attention>
+	<theHighestBid>当前最高竞价:</theHighestBid>
+	<myTradeCenterTitle>球员,年龄,能力,成交价格,竞价状态,操作</myTradeCenterTitle>
+	<receiveMoneySuc>您本次拍卖球员的成交价格为</receiveMoneySuc>
+	<attSuc>关注成功</attSuc>
+	<tradeSuc>出售成功</tradeSuc>
+	<cancelSuc>取消成功</cancelSuc>
+	<!-- 欧冠联赛 -->
+	<topscorer>欧冠射手榜</topscorer>
+	<!-- DialogueHelper.as -->
+	<xxb>小小贝</xxb>
+	<psl>皮萨罗</psl>
+	<d0>首场比赛，我们将主场迎战同是“升班马”的&lt;font color='#f6ff00'&gt;利沃诺。&lt;/font&gt;</d0>
+	<d0T>赛前准备</d0T>
+	<d1>未来之星&lt;font color='#39ff39'&gt;小小贝&lt;/font&gt;已经加入球队，这是我们的首位&lt;font color='#f6ff00'&gt;精英球员&lt;/font&gt;。</d1>
+	<d1T>换他上场</d1T>
+	<d2>&lt;font color='#f6ff00'&gt;精英球员 &lt;/font&gt;&lt;font color='#39ff39'&gt;小小贝&lt;/font&gt;上场，球队实力提升至&lt;font color='#f6ff00'&gt;@ &lt;/font&gt;，意甲联赛首场战胜利沃诺将成为你执教生涯最好的开端！</d2>
+	<d2T>开启联赛</d2T>
+	<d3>你的下个对手是莎索罗，&lt;font color='#f6ff00'&gt;球队实力716&lt;/font&gt;。</d3>
+	<d3T>提升实力</d3T>
+	<d3_1>你的下个对手是莎索罗，&lt;font color='#f6ff00'&gt;球队实力716&lt;/font&gt;。通过&lt;font color='#f6ff00'&gt;训练&lt;/font&gt;你的球员来提升&lt;font color='#f6ff00'&gt;球队实力&lt;/font&gt;吧！</d3_1>
+	<d3T_1>训练球员</d3T_1>
+	<d4>派遣你的&lt;font color='#f6ff00'&gt;球探 &lt;/font&gt;去寻找一名强力球员吧。</d4>
+	<d4T>派遣球探</d4T>
+	<d5>&lt;font color='#39ff39'&gt;小小贝&lt;/font&gt;是初始实力为&lt;font color='#f6ff00'&gt;69&lt;/font&gt;的&lt;font color='#f6ff00'&gt;精英球员 &lt;/font&gt;。签约他需要&lt;font color='#f6ff00'&gt;2级合同&lt;/font&gt;，去联赛中找找看吧。</d5>
+	<d5T>赢取合同</d5T>
+	<d6>恭喜你获得一张&lt;font color='#f6ff00'&gt;2级合同&lt;/font&gt;，可以去签约&lt;font color='#39ff39'&gt;小小贝&lt;/font&gt;了。</d6>
+	<d6T>签约球员</d6T>
+	<d7>&lt;font color='#f6ff00'&gt;精英球员 &lt;/font&gt;&lt;font color='#39ff39'&gt;小小贝&lt;/font&gt;已经迫不及待的要为球队效力了，快把他放入主力阵容中吧。</d7>
+	<d7T>换他上场</d7T>
+	<d8>我们可以通过&lt;font color='#f6ff00'&gt;完成任务&lt;/font&gt;获得更多的&lt;font color='#f6ff00'&gt;奖励&lt;/font&gt;，请前往任务页面查看&lt;font color='#39ff39'&gt;任务&lt;/font&gt;信息。</d8>
+	<d8T>查看任务</d8T>
+	<d9>今后在你管理球队的同时，&lt;font color='#f6ff00'&gt;任务&lt;/font&gt;将指明你前进的方向。</d9>
+	<d9T>冠军之路</d9T>
+	<d10>想获得大量&lt;font color='#f6ff00'&gt;训练点&lt;/font&gt;和&lt;font color='#f6ff00'&gt;升级卡&lt;/font&gt;吗？快来参加挑战赛。</d10>
+	<d10T>前往挑战</d10T>
+	<d11>恭喜你等级到达24级，天梯赛已为你开启。</d11>
+	<d11T>强袭天梯</d11T>
+	<d12>转眼就到24级了。现在，&lt;font color='#f6ff00'&gt;天梯赛&lt;/font&gt;开启。战胜对手，你会获得战术积分，供你升级你球队战术等级。</d12>
+	<d12T>下一步</d12T>
+	<d13>天梯赛，每天会有30关，对手都是真实的球队。 排名靠前，闯关更多的球队可以获得丰厚的&lt;font color='#f6ff00'&gt;排名奖励&lt;/font&gt;。开始挑战吧！</d13>
+	<d13T>下一步</d13T>
+	<d14>天梯赛每天都会有32名玩家荣登闯关榜，闯关数、积分和挑战完成时间都将决定你的最终排名，排名越靠前奖励越丰厚。还在等什么</d14>
+	<d14T>开始挑战</d14T>
+	<d15>恭喜你到达27级！青训营已完成扩建，现已投入使用。</d15>
+	<d15T>前往青训</d15T>
+	<d16>每一张卡牌的背面都站着一位青训球员，快翻开来看看。</d16>
+	<d16T>点击翻牌</d16T>
+	<d17>这是一名&lt;font color='#f6ff00'&gt;U20&lt;/font&gt;的青训球员。&lt;font color='#f6ff00'&gt;U20&lt;/font&gt;代表他转为职业球员时将是一名&lt;font color='#f6ff00'&gt;精英球员&lt;/font&gt;。</d17>
+	<d17T>下一步</d17T>
+	<d18>我们现在拥有&lt;font color='#f6ff00'&gt;1000&lt;/font&gt;青训基金足够足够签约这名&lt;font color='#f6ff00'&gt;青训球员&lt;/font&gt;。</d18>
+	<d18T>签约青训</d18T>
+	<d19>地区选拔可以为我们刷新这五名青训球员。</d19>
+	<d19T>下一步</d19T>
+	<d20>现在让我们去青训大厅看看刚签约的球员吧。</d20>
+	<d20T>青训大厅</d20T>
+	<d21>青训营现有3名&lt;font color='#f6ff00'&gt;U20&lt;/font&gt;球员，可以通过合成提升他们的品质。</d21>
+	<d21T>前去合成</d21T>
+	<d22>点击加号按钮，请在弹出的球员列表中选择一名同品质的球员进行升级。</d22>
+	<d22T>下一步</d22T>
+	<d23>球员升级品质时，会将两名球员属性中的较高值做为升级后的球员属性。</d23>
+	<d23T>下一步</d23T>
+	<d24>点击升级按钮，开始合成。</d24>
+	<d24T>品质提升</d24T>
+	<d24_1>恭喜你得了一名优秀球员，继续将他和另外一名&lt;font color='#f6ff00'&gt;优秀U20&lt;/font&gt;球员合成为&lt;font color='#f6ff00'&gt;精英品质&lt;/font&gt;吧。</d24_1>
+	<d24T_1>继续合成</d24T_1>
+	<d25>恭喜你合成了一名&lt;font color='#f6ff00'&gt;精英U20&lt;/font&gt;球员，他可以转职加入球队为你效力了。</d25>
+	<d25T>球员转职</d25T>
+	<d25_1>恭喜你的球队获得新的战斗力，你还可以通过选拔获得更多更好的球员。</d25_1>
+	<d25_2>阵容已满，请先解雇。要想获取更多强力球员还可到地区选拔试试看。</d25_2>
+	<d25T_1>我知道了</d25T_1>
+	<d26>对手亚特兰大实力太强，把你的实力提升至1050后，再来挑战吧！</d26>
+	<d27>对手桑普多利亚实力太强，把你的实力提升至1200后，再来挑战吧！</d27>
+	<d28>对手维罗纳实力太强，把你的实力提升至1300后，再来挑战吧！</d28>
+	<d31>尤文图斯是意甲劲旅，我们的实力需提升至@才有较大的胜算，先去提升实力吧！</d31>
+	<d29>董事会为了提升球队知名度，决定让你带领球队参加&lt;font color='#f6ff00'&gt;欧冠杯赛&lt;/font&gt;！</d29>
+	<d29T>开启杯赛</d29T>
+	<d30>&lt;font color='#f6ff00'&gt;欧冠杯赛&lt;/font&gt;分为五大赛区，快挑选一个开启本次征程吧。</d30>
+	<d30T>杯赛报名</d30T>
+	<oprChooseName1>训练球员|1</oprChooseName1>
+	<oprChooseName2>挑战赛|3,训练球员|1,更换阵容|2</oprChooseName2>
+	<oprChooseName3>派遣球探|4,训练球员|1,挑战赛|3,更换阵容|2</oprChooseName3>
+	<!-- UICupTrialsInfo 杯赛相关的中文 -->
+	<cupNames>意大利杯,法国杯,德国杯,足总杯,国王杯</cupNames>
+	<cupSign>报名杯赛</cupSign>
+	<cupTraialsName>淘汰赛 </cupTraialsName>
+	<cupOpenLevel>杯赛20级开放，请努力升级先！</cupOpenLevel>
+	<cupGift>获胜奖励500青训基金</cupGift>
+	<cupGift1>已获得@青训基金</cupGift1>
+	<matchArrangement>公布赛程</matchArrangement>
+	<rankInfo>第@场</rankInfo>
+	<firstDay>第一天</firstDay>
+	<secondDay>第二天</secondDay>
+	<thirdDay>第三天</thirdDay>
+	<matchEndTxt>赛程已结束</matchEndTxt>
+	<matchRank>16强:,  8强:,  4强:,  决赛:</matchRank>
+	<matchTime>10:30，11:00,14:00，14:30,16:00，16:30,20:00，20:30</matchTime>
+	<cupMatchDesc>杯赛共分为五个赛区，周一开启报名,周二和周三进行选拔赛,每天3场比赛。周四每个赛区排名前16位玩家进入淘汰赛,淘汰赛结束后排名前4位直接晋级欧冠联赛,各个赛区未进入淘汰赛的玩家将以选拔赛的形式在周四进行三场附加赛。&lt;br&gt;赛事安排：1.	报名时间：周一00：00至周二00：00&lt;br&gt;2.选拔赛时间：第一场比赛10：00，第二场比赛15：00，第三场比赛20：00&lt;br&gt;3.淘汰赛时间：&lt;br&gt;16强：周四10：30，11：00,8强：周四14：00，14：30&lt;br&gt;4强：周四16：00，16：30,决赛：周四20：00，20：30&lt;br&gt;4.附加赛时间：第一场比赛10：00，第二场比赛15：00，第三场比赛20：00&lt;br&gt;选拔赛奖励：&lt;br&gt;胜利：2000欧元，500青训基金，100声望，50主力球员经验&lt;br&gt;失败：1000欧元，200青训基金，80声望，20主力球员经验&lt;br&gt;附加赛奖励：&lt;br&gt;胜利：2000欧元，500青训基金，100声望，50主力球员经验&lt;br&gt;失败：1000欧元，200青训基金，80声望，20主力球员经验&lt;br&gt;淘汰赛奖励：&lt;br&gt;1.冠军奖励：巨星勋章*7，大牌勋章*7，4级合同*3，20000欧元，10000声望&lt;br&gt;2.亚军奖励：巨星勋章*5，大牌勋章*6，4级合同*2，15000欧元，8000声望&lt;br&gt;3.3至4名奖励：巨星勋章*3，大牌勋章*5，4级合同*1，12000欧元，6000声望&lt;br&gt;4.5至8名奖励：大牌勋章*4，3级合同*3，10000欧元，5000声望&lt;br&gt;5.9至16名奖励：大牌勋章*3，3级合同*2，8000欧元，4000声望&lt;br&gt;注:首届比赛时间为开服前七天
+	</cupMatchDesc>
+	<cupMyRankInfo>您在本次杯赛选拔赛-@中最终排名#名,&lt;br&gt;恭喜您成功晋级淘汰赛</cupMyRankInfo>
+	<playBack>回放</playBack>
+	<!-- UIYellowVip.as -->
+	<vipTabs>特权介绍,新手礼包,每日礼包,升级礼包,天梯赛特权</vipTabs>
+	<gotoDraw>前去领取</gotoDraw>
+	<gotoLadder>前往</gotoLadder>
+	<levelR>级奖励</levelR>
+	<yvLevelR>黄钻再送</yvLevelR>
+	<lvlD>等级不足</lvlD>
+	<ifCount>已邀请@名好友</ifCount>
+	<ifTip>温馨提示：邀请好友要进同一区哦！</ifTip>
+	<ifCountT>邀请@名可领取</ifCountT>
+	<lvlRe>20级,30级,35级,40级,45级,50级</lvlRe>
+	<!-- UIInviteFriends.as -->
+	<inviteF>邀请好友</inviteF>
+	<inviteFC>已邀请@名好友</inviteFC>
+	<!-- 欧冠联赛相关  champions-->
+	<btnBetLabel>下注</btnBetLabel>
+	<chamPionsLive>直播</chamPionsLive>
+	<against>第@轮对阵 </against>
+	<championsBets>欧冠淘汰赛  16强 投注站</championsBets>
+	<againstBtn>淘汰赛对阵图</againstBtn>
+	<betsCount>您共有@注</betsCount>
+	<enterChampionsLabel>欧冠之巅</enterChampionsLabel>
+	<topScoreBtn>射手榜</topScoreBtn>
+	<groupRankBtn>小组排名</groupRankBtn>
+	<championsGroupMatch>欧冠小组赛</championsGroupMatch>
+	<groupName>A组,B组,C组,D组,E组,F组,G组,H组</groupName>
+	<dropGroupName>A组|1,B组|2,C组|3,D组|4,E组|5,F组|6,G组|7,H组|8</dropGroupName>
+	<btnGroup>小组赛</btnGroup>
+	<btnPlayOffs>淘汰赛</btnPlayOffs>
+	<betsEnter>16强投注站</betsEnter>
+	<groupMatchRank>欧冠小组赛排名</groupMatchRank>
+	<groupMatchDate>小组赛程</groupMatchDate>
+	<playOffsDate>&nbsp; 16强: 19:00 19:30,&nbsp;&nbsp; 8强: 20:00 20:30,半决赛: 21:00 21:30,&nbsp;&nbsp;决赛: 22:00 22:30</playOffsDate>
+	<championsDec>1.出线资格：各杯赛四强加全服实力前12名共32位玩家进入欧冠小组赛。&lt;br&gt;2.小组赛：周六早10:00-12:30，每30分钟一场，比赛采取双循环赛制。胜、平、负分别积分3、1、0分，小组积分前两名晋级欧冠淘汰赛。积分相同，按净胜球，胜负关系、球队实力的排序晋级。&lt;br&gt;3.押注：除进入欧冠16强且等级在30以上的所有玩家都有三次押注机会，在欧冠结束后将获得相应的礼包奖励。押注时间小组赛当天（周六）13:00至决赛当天（周日）18点。&lt;br&gt;4.淘汰赛：周日晚19:00-21:30，每30分钟一场，淘汰赛采用主客场制，总进球多的球队晋级，相同时，比较客场进球，如果还是相同则在第二场比赛结束时进入加时赛，加时赛若继续打平则进入点球大战。&lt;br&gt;5.决赛：周日晚10:00，决赛一场定胜负，若加时赛比分相同则进入点球大战。&lt;br&gt;6.奖励：所有进入欧冠的玩家都可根据排名获得欧冠之魂、升级卡、训练点、声望等丰厚奖励。欧冠决赛结束后的10:20开始发奖（可能略有延迟）。</championsDec>
+	<!-- StoryHelper.as -->
+	<lvlUpT>太轻松了，我的球队升级啦！</lvlUpT>
+	<lvlUpC>我的球队已经升到@级了，快来一起征战欧冠足球2吧！</lvlUpC>
+	<signPlayerT>多多益善，再来几个也不嫌多！</signPlayerT>
+	<signPlayerC>我在欧冠足球2中成功签约到了@！欧冠奖杯，非我莫属 ！</signPlayerC>
+	<signPlayerC2>我在欧冠足球2中成功签约到了@！我的欧冠王朝 ，我的巨星战舰！</signPlayerC2>
+	<leagueChampionT>我已经进入状态，谁能挡我？！</leagueChampionT>
+	<leagueChampionC>我已称霸@，这都不是事，太轻松了！还有谁？还有谁能阻挡我的脚步！</leagueChampionC>
+	<challengeThroughT>我是不会惧怕任何对手的！</challengeThroughT>
+	<challengeThroughC>我已经通关@挑战赛，即将去挑战更强的对手啦！遇强则强才是我的隐藏属性！</challengeThroughC>
+	<ladderUpT>太轻松了，我的天梯我做主！</ladderUpT>
+	<ladderUpC>我已经闯过天梯赛第@关了，你敢来欧冠足球2与我一战吗！</ladderUpC>
+
+	<!-- Club -->
+	<clubDefaultRankTitle>排名,球队名,等级,贡献度</clubDefaultRankTitle>
+	<starsCount>25星可领取,50星可领取,75星可领取,100星可领取</starsCount>
+	<theClubOpenlvl>球会25级开放，请努力升级先！</theClubOpenlvl>
+	<refuse>拒绝</refuse>
+	<pass>通过</pass>
+	<tishenghuizhang>提升会长</tishenghuizhang>
+	<zhuchu>逐出</zhuchu>
+	<apply>申请加入</apply>
+	<meirenxiangou>每人限购@个</meirenxiangou>
+	<quanfuxiangou>球会限购@个</quanfuxiangou>
+	<alBuy>已购买@个</alBuy>
+	<buyClubName>购买球队:</buyClubName>
+	<_receiveTaskBtn>领取任务</_receiveTaskBtn>
+	<_receiveRewardBtn>领取奖励</_receiveRewardBtn>
+	<_alreadytask>放弃任务</_alreadytask>
+	<_alreadyReward>奖励已领取</_alreadyReward>
+	<clubReward>欧元 @ 训练点 * 球队经验 | </clubReward>
+	<applyList>申请列表</applyList>
+	<appLevel>等级</appLevel>
+	<sureRenming>确定将@任命为会长吗</sureRenming>
+	<sureZhuchu>确定将@逐出球会吗</sureZhuchu>
+	<tweenRefresh>20     刷新</tweenRefresh>
+	<mianfeishuaxin>免费刷新</mianfeishuaxin>
+	<managClub>管理球会</managClub>
+	<disBand>解散球会</disBand>
+	<addClub>申请列表</addClub>
+	<exit>退出球会</exit>
+	<otherClub>其他球会</otherClub>
+	<tuichu>退出</tuichu>
+	<jiesan>解散</jiesan>
+	<clubTabName>球会任务,球会信息,球会商城</clubTabName>
+	<con>贡献度</con>
+	<theClubLvlName>普通,优秀1级,优秀2级,精英1级,精英2级,精英3级,杰出1级,杰出2级,杰出3级,杰出4级,大牌1级,大牌2级,大牌3级,大牌4级,大牌5级,巨星1级,巨星2级,巨星3级,巨星4级,巨星5级,传奇1级</theClubLvlName>
+	<cLevle>等级:</cLevle>
+	<clubMember>成员:</clubMember>
+	<todayCon>今日获得:</todayCon>
+	<todayLas>今日剩余:</todayLas>
+	<receive>领取</receive>
+	<alReceive>已领取</alReceive>
+	<ownCon>拥有贡献:</ownCon>
+	<sureFreshTask>确定刷新任务吗</sureFreshTask>
+	<coinRefresh>是否花费20金币刷新任务</coinRefresh>
+	<srueClub>确定@球会吗</srueClub>
+	<chuangjianqiuhui>创建球会</chuangjianqiuhui>
+	<clubRank>排名</clubRank>
+	<qiuhuiming>球会名</qiuhuiming>
+	<huizhang>会长</huizhang>
+	<gongxian>贡献</gongxian>
+	<renshu>人数</renshu>
+	<upPage>上一页</upPage>
+	<downPage>下一页</downPage>
+	<createName>球会名称</createName>
+	<sixNum>6个汉字以内</sixNum>
+	<createCost>创建球会需花费20000欧元</createCost>
+	<createClubbtn>创建球会</createClubbtn>
+	<pressClubName>请输入球会名</pressClubName>
+	<sureCreateClub>是否花费20000欧元创建球会</sureCreateClub>
+	<clubSureBtn>确定</clubSureBtn>
+	<addTaskCount>增加任务次数</addTaskCount>
+	<gonghuafei>共花费</gonghuafei>
+	<coinBuyCount>是否花费@金币购买*任务次数</coinBuyCount>
+	<clubHuizhang>会长:</clubHuizhang>
+	<clubRank1>排名:</clubRank1>
+	<hasM>球会名带有敏感词，请重新输入</hasM>
+	<alApply>已申请</alApply>
+	<memberList>成员列表</memberList>
+	<theclubzhuchuinfo>球会踢人限制每天10次,剩余@次</theclubzhuchuinfo>
+	<receiveSuc>领取成功</receiveSuc>
+	<buySuc>购买成功</buySuc>
+	<chaochuxiangou>超出限购</chaochuxiangou>
+	<disSuc>放弃成功</disSuc>
+	<refreshSuc>刷新成功</refreshSuc>
+	<renmingSuc>任命成功</renmingSuc>
+	<zhuchuSuc>逐出成功</zhuchuSuc>
+	<throughSuc>通过成功</throughSuc>
+	<jujuechenggong>拒绝成功</jujuechenggong>
+	<jiesanchenggong>解散成功</jiesanchenggong>
+	<outSuc>退出成功</outSuc>
+	<chuangjianChenggong>创建成功</chuangjianChenggong>
+	<appSuc>申请成功</appSuc>
+	<!-- ActivityCenter -->
+	<SignSumData>累计签到：@ 天</SignSumData>
+	<SignBQ>是否消耗66金币补签？</SignBQ>
+	<ggl>特等奖,一等奖,二等奖,三等奖,四等奖,五等奖,鼓励奖</ggl>
+	<worldCupCGQ>抽国旗</worldCupCGQ>
+	<worldCupTen>十连抽</worldCupTen>
+	<tzs>挑战赛</tzs>
+	<worldCupklz>集齐32国国旗，即可将杰出克</worldCupklz>
+	<worldCupklz1>洛泽</worldCupklz1>
+	<worldCupklz2>免费升级为大牌球员。</worldCupklz2>
+	<SignOk>签到成功</SignOk>
+	<ShopMax>购买已达上限</ShopMax>
+	<Obtain>恭喜获得</Obtain>
+	<OpenBoxSM1>活动说明：</OpenBoxSM1>
+	<OpenBoxSM2>1.每开启10次宝箱，赠送杰出球探搜索1次</OpenBoxSM2>
+	<OpenBoxSM3>2.每开启宝箱需要90金币</OpenBoxSM3>
+	<OpenBoxSM4>温馨提示：成功领取球员后，球员将直接到签约大厅。</OpenBoxSM4>
+	
+	<!-- UINotice -->
+	<constantNotice>AAAAAAAAAAAAAAAAAAAA,BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,CCCCCCCCCCCCCCCCCCCCCCCCCCC</constantNotice>
+	<!-- EliteMatch -->
+	<elitePrice>价格：</elitePrice>
+	<fewSences>第@幕</fewSences>
+	<lvlOn>等级达到@级</lvlOn>
+	<throughSences>第@幕通关</throughSences>
+	<nowOwn>当前拥有@</nowOwn>
+	<eliteNeedCoin>挑战需花费@金币</eliteNeedCoin>
+	<lastMatchCount>剩余挑战次数@次</lastMatchCount>
+	<eliteMatchDes>精英赛根据球员位置分为前锋精英赛、中场精英赛、后卫精英赛和门将精英赛。&lt;br&gt;四大精英赛轮流开放，掉落对应球员位置的球员装备，即前锋精英赛掉落前锋球员装备。&lt;br&gt;精英赛内共分为五幕，每一幕包含三支挑战球队和两次积分奖励，玩家必须按照顺序依次挑战，并领取每一幕的积分奖励。&lt;br&gt;当同一幕内的球队全部被战胜且积分奖励全部被领取后，该幕自动重置。&lt;br&gt;若玩家在挑战过程中挑战失败，则该幕被强制重置玩家需要重新挑战。</eliteMatchDes>
+	<eliteOpenDate1>周一，周五</eliteOpenDate1>
+	<eliteOpenDate2>周二，周六</eliteOpenDate2>
+	<eliteOpenDate3>周三,周日</eliteOpenDate3>
+	<eliteOpenDate4>周四</eliteOpenDate4>
+	<eliteMatch40Lvl>等级达到40级</eliteMatch40Lvl>
+	<eliteMatchO>每@开启</eliteMatchO>
+	<flopReward>翻牌奖励</flopReward>
+	<!-- 礼包中心 -->
+	<qr>确认</qr>
+	<clj>点此获取激活码</clj>
+	<GiftBttxt>请输入礼包激活码</GiftBttxt>
+	<!-- VIP -->
+	<Coin30>30金币/次</Coin30>
+	<Coin50>50金币/次</Coin50>
+	<Coin80>80金币/次</Coin80>
+	<QTtxt>球探VIP：购买成功后，球探次数每天额外赠送5次</QTtxt>
+	<TZStxt>挑战赛VIP：购买成功后，挑战赛次数每天额外赠送5次</TZStxt>
+	<TTStxt>天梯赛VIP：购买成功后，天梯赛次数每天额外赠送6次</TTStxt>
+	<QXtxt>青训营VIP：购买成功后，青训营地区选拔每天额外赠送5次</QXtxt>
+	<ZStxt>注：VIP效果购买一次持续3天，持续时间可叠加</ZStxt>
+	<buyVipOK>vip购买成功！</buyVipOK>
+	<!-- 开宝箱 -->
+	<SearchBtn>搜索</SearchBtn>
+	<MSOpen>马上开启</MSOpen>
+	<ci>（已开启@次）</ci>
+	<searchtxt>搜索将刷新球员，是否搜索？</searchtxt>
+	<BoxObtain>恭喜你获得</BoxObtain>
+	<BoxSearch>恭喜@搜到</BoxSearch>
+</Chinese>

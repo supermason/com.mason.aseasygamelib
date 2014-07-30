@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<ip>172.16.8.107</ip>
+	<port>1234</port>
+	<monitermode>1</monitermode>
+	<requestInvterval>500</requestInvterval>
+	<isDebug>0</isDebug>
+	<chargeURL>http://www.baidu.com</chargeURL>
+</config>

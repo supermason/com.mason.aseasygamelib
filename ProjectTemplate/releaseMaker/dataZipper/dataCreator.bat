@@ -1,0 +1,1 @@
+"D:\Program Files\7-Zip\7z.exe" a -tzip "C:\Users\Administrator\Desktop\OG2Web\data\data.zip" "E:\OGZQ2_2014\OGZQ2\config\Config.xml" "E:\OGZQ2_2014\OGZQ2\config\version.txt" "E:\OGZQ2_2014\OGZQ2\language\Chinese.xml" "E:\OGZQ2_2014\OGZQ2\language\Error.xml"
